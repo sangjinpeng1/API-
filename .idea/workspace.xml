@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="373326cc-baac-44ed-8297-5978f92fb9ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datas/test02.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/datas/test02.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/log.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/login.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,8 +51,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="37">
-              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="100">
+              <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,6 +80,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>C:\Users\Administrator\PycharmProjects\Tuesday</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -123,8 +133,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="70" />
-    <option name="y" value="137" />
+    <option name="x" value="132" />
+    <option name="y" value="57" />
     <option name="width" value="1398" />
     <option name="height" value="806" />
   </component>
@@ -142,11 +152,6 @@
               <item name="Tuesday" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tuesday" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Tuesday" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tuesday" type="462c0819:PsiDirectoryNode" />
-              <item name="A_MonDay" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -156,7 +161,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -182,7 +187,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run (2)">
+  <component name="RunManager" selected="Python.run">
     <configuration name="handle_path" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Tuesday" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -290,10 +295,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.run" />
         <item itemvalue="Python.run (2)" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.handle_path" />
-        <item itemvalue="Python.run" />
         <item itemvalue="Python.run (1)" />
       </list>
     </recent_temporary>
@@ -323,7 +328,21 @@
       <option name="project" value="LOCAL" />
       <updated>1630905968192</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="新增run">
+      <created>1630907378539</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630907378539</updated>
+    </task>
+    <task id="LOCAL-00004" summary="新增run">
+      <created>1630912255222</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1630912255222</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -359,21 +378,21 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="137" width="1398" height="806" extended-state="0" />
+    <frame x="132" y="57" width="1398" height="806" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1992647" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32892805" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3918919" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49926472" visible="true" weight="0.3907875" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.6781768" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32935917" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49926472" weight="0.32986626" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007353" side_tool="true" weight="0.3907875" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -402,7 +421,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ceshi" />
     <MESSAGE value="提交至git" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交至git" />
+    <MESSAGE value="新增run" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增run" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -781,8 +801,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        <state relative-caret-position="100">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
