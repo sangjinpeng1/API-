@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="373326cc-baac-44ed-8297-5978f92fb9ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datas/test02.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/datas/test02.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/log.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/log.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/login.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -133,8 +130,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="132" />
-    <option name="y" value="57" />
+    <option name="x" value="121" />
+    <option name="y" value="362" />
     <option name="width" value="1398" />
     <option name="height" value="806" />
   </component>
@@ -151,6 +148,11 @@
             <path>
               <item name="Tuesday" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tuesday" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tuesday" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tuesday" type="462c0819:PsiDirectoryNode" />
+              <item name="A_MonDay" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -342,7 +344,14 @@
       <option name="project" value="LOCAL" />
       <updated>1630912255222</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="新增run">
+      <created>1630912469864</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1630912469864</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -378,7 +387,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="132" y="57" width="1398" height="806" extended-state="0" />
+    <frame x="33" y="651" width="1398" height="806" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1992647" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
