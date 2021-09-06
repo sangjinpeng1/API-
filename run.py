@@ -1,6 +1,6 @@
 import unittest
 from unittestreport import TestRunner
-from common.handle_path import CASES_DIR, REPORTS_DIR
+from handle_path import CASES_DIR, REPORTS_DIR
 from unittestreport.core.sendEmail import SendEmail
 
 
